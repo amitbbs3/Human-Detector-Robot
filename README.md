@@ -1,4 +1,4 @@
-# HumanDetector-Robot
+# Human Detector-Robot
 
 
 ## COMPONENTS REQUIRED:
